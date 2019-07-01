@@ -1,6 +1,6 @@
 # pi
 
-Yet Another Yogurt - An AUR Helper Written in Go
+Pionux OS Package Manager
 
 #### Packages
 
